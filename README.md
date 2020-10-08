@@ -1,6 +1,14 @@
 **DISCLAIMER -**
 This is an auto generated README.md created within jupyterlab using the main India_&_World_COVID_19.ipynb file and hence has some cuts and glitches. I highly recommend going through the main notebook file for the perfect version. 
 
+---
+
+To run the project in its whole, extra datasets (given as .zip) are needed. You can clone the repository in your working directory with the command:
+`git clone https://github.com/rawatraghav/INDIA-and-COVID-19.git`
+or download repository as zip file.
+
+---
+
 ![alt text](https://i.imgur.com/CO69Gqw.jpg)      
 
 # COVID-19 - Pandemic in India!
