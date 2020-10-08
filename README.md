@@ -1,3 +1,6 @@
+**DISCLAIMER -**
+This is an auto generated README.md created within jupyterlab using the main India_&_World_COVID_19.ipynb file and hence has some cuts and glitches. I highly recommend going through the main notebook file for the perfect version. 
+
 ![alt text](https://i.imgur.com/CO69Gqw.jpg)      
 
 # COVID-19 - Pandemic in India!
